@@ -1,0 +1,27 @@
+User Guide:
+
+To use the testing software, you have to edit the 'data' array in the main section of the code. 
+You can use any of these commands, but you have to use their specific inputs to use them correctly. 
+
+Friendly hint: CRASH terminates the code (because of the car accident accident) so keep in mind to use it at the end after testing other cases. 
+
+"Summon to: xpos ypos zpos"
+"Park at: xpos ypos zpos"
+"HUD Speed: currspeed speedlimit"
+"Start routing: (School|Home)"
+"Cruise Control: speed"
+"HUD CC: speed"
+"Internet Integration: (Spotify|Weather)",
+"Solar Panels: 0 currbatterylevel",
+"Lane Mitigation: (0 | 1)",
+"Self Diagnosis: (Any module from this class)"
+"Mirror: (0 | 1)"
+"Left Mirror: Degree"
+"Right Mirror: Degree"
+"Technician Entry" (password is 1243)
+"Sensor AI: (0|1) (0|1)",
+"HUD Battery: currbatterylevel"
+"Technician Done" (exit technician)
+"Set Contact: Name"
+"Remove Contact: Name"
+"CRASH" (car crash)

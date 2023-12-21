@@ -1,0 +1,23 @@
+Please check the user guide on how to use this array in the code. 
+
+String[] data = {"Summon to: 35 -10 23",
+		 "Park at: 123 -123 0",
+	         "HUD Speed: 35 38",
+		 "Start routing: School",
+		 "Cruise Control: 17",
+		 "HUD CC: 17",
+	         "Internet Integration: Spotify",
+		 "Solar Panels: 0 75",
+	         "Lane Mitigation: 0",
+		 "Self Diagnosis: Planning",
+		 "Mirror: 0",
+        	 "Left Mirror: 34.0",
+       		 "Right Mirror: 26.0", 
+        	 "Technician Entry", 
+		 "Sensor AI: 1 1",
+		 "HUD Battery: 35",
+		 "Technician Done",
+		 "Set Contact: Steve",
+		 "Set Contact: Izzi",
+	         "Remove Contact: Steve",
+		 "CRASH"};
